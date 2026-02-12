@@ -53,5 +53,5 @@ Este projeto é uma versão **refatorada de um projeto antigo**, com melhor orga
 
 Segue um print do terminal com o programa rodando:
 
-![Terminal funcionando](imagens/Terminal.png)
+![Terminal funcionando](Calculadora-Enum/imagens/Terminal.png)
 

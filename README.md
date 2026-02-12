@@ -48,3 +48,10 @@ Calculadora/
 Este projeto é uma versão **refatorada de um projeto antigo**, com melhor organização de código e uso correto de boas práticas de Java básico.
 
 ---
+
+## Demonstração
+
+Segue um print do terminal com o programa rodando:
+
+![Terminal funcionando](imagens/Terminal.png)
+
